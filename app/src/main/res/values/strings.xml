@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harmonogram zjazdów UR</string>
+    <string name="plan_zjazdu">Plan zjazdu</string>
+    <string name="data_zjazdu">Data zjazdu</string>
+</resources>
